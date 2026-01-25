@@ -6,5 +6,5 @@ The bits imported are (likely) sufficient to begin building simple quantum circu
 running the circuit on local Aer simulators, and visualizing the quantum state of the circuit.
 
 For more information about the Aer simulator family, see
-[this link](https://qiskit.org/ecosystem/aer/tutorials/1_aer_provider.html).
+[this link](https://qiskit.github.io/qiskit-aer/stubs/qiskit_aer.AerSimulator.html#qiskit_aer.AerSimulator)
 
